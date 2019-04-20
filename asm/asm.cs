@@ -1,10 +1,10 @@
 using System;
 using System.Collections;
-namespace Test
+namespace asm
 {
     public class asm
     {
-          public void Main(string[] args)
+          public static void Main(string[] args)
                 {
                      int prv = 0, pre = 1, trm, i, n;
         

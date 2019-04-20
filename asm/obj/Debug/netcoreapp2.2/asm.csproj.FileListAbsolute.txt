@@ -1,0 +1,11 @@
+/home/trung/RiderProjects/Test/asm/obj/Debug/netcoreapp2.2/asm.csprojAssemblyReference.cache
+/home/trung/RiderProjects/Test/asm/obj/Debug/netcoreapp2.2/asm.csproj.CoreCompileInputs.cache
+/home/trung/RiderProjects/Test/asm/obj/Debug/netcoreapp2.2/asm.AssemblyInfoInputs.cache
+/home/trung/RiderProjects/Test/asm/obj/Debug/netcoreapp2.2/asm.AssemblyInfo.cs
+/home/trung/RiderProjects/Test/asm/bin/Debug/netcoreapp2.2/asm.deps.json
+/home/trung/RiderProjects/Test/asm/bin/Debug/netcoreapp2.2/asm.runtimeconfig.json
+/home/trung/RiderProjects/Test/asm/bin/Debug/netcoreapp2.2/asm.runtimeconfig.dev.json
+/home/trung/RiderProjects/Test/asm/bin/Debug/netcoreapp2.2/asm.dll
+/home/trung/RiderProjects/Test/asm/bin/Debug/netcoreapp2.2/asm.pdb
+/home/trung/RiderProjects/Test/asm/obj/Debug/netcoreapp2.2/asm.dll
+/home/trung/RiderProjects/Test/asm/obj/Debug/netcoreapp2.2/asm.pdb
