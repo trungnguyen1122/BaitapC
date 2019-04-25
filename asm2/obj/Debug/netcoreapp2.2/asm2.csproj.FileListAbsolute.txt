@@ -1,0 +1,4 @@
+/home/trung/RiderProjects/Test/asm2/obj/Debug/netcoreapp2.2/asm2.csprojAssemblyReference.cache
+/home/trung/RiderProjects/Test/asm2/obj/Debug/netcoreapp2.2/asm2.csproj.CoreCompileInputs.cache
+/home/trung/RiderProjects/Test/asm2/obj/Debug/netcoreapp2.2/asm2.AssemblyInfoInputs.cache
+/home/trung/RiderProjects/Test/asm2/obj/Debug/netcoreapp2.2/asm2.AssemblyInfo.cs

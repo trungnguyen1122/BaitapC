@@ -24,8 +24,7 @@ namespace asm
                         n2 = trm;
                     }
                     Console.Write("\n");   
-        
                     Console.ReadKey();
-                }
+           }
     }
 }
